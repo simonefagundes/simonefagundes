@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonefagundes
 - 👀 I’m interested in apprenticeship
-- 🌱 I’m currently learning  HTML, CSS
+- 🌱 I’m currently learning  HTML, CSS, C#, SQL, .NET
 - 📫 How to reach me https://www.linkedin.com/in/simone-fagundes/
 
 <!---
